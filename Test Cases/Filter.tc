@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d2f83cb-8c27-4f87-83b7-590fd66b3e2b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc58cdc7-5f09-4915-8049-de56948f3f34</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc58cdc7-5f09-4915-8049-de56948f3f34</id>
+      <masked>false</masked>
+      <name>filter</name>
+   </variable>
+</TestCaseEntity>

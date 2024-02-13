@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1EDE218E2181E2B9C1CC0CBDE88283B7",
+  "keywordClasses": [
+    {
+      "name": "myPackages.Login",
+      "keywordMethods": [
+        {
+          "name": "loginHome",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

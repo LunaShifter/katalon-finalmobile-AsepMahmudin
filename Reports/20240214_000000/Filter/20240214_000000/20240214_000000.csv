@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Filter,,,,14-02-2024 00:00:09,14-02-2024 00:02:58,2m - 48.238s,PASSED
+,,,,,,,
+Test Cases/Filter,,,,14-02-2024 00:00:10,14-02-2024 00:01:12,1m - 2.142s,PASSED
+"startApplication(""C:\Users\masep\git\Report Final Mobile Asep Mahmudin\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:00:11,14-02-2024 00:00:46,35.405s,PASSED
+delay(10),,,,14-02-2024 00:00:46,14-02-2024 00:00:56,10.127s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - LAPTOPS""), 0)",,,,14-02-2024 00:00:56,14-02-2024 00:00:58,1.943s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:00:58,14-02-2024 00:01:01,3.116s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - BY OPERATING SYSTEM""), 0)",,,,14-02-2024 00:01:01,14-02-2024 00:01:03,1.529s,PASSED
+a = filter,,,,14-02-2024 00:01:03,14-02-2024 00:01:03,0.010s,PASSED
+"if (a == ""Chrome"")",,,,14-02-2024 00:01:03,14-02-2024 00:01:12,9.185s,PASSED
+,,,,,,,
+Test Cases/Filter,,,,14-02-2024 00:01:12,14-02-2024 00:01:49,36.753s,PASSED
+"startApplication(""C:\Users\masep\git\Report Final Mobile Asep Mahmudin\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:01:12,14-02-2024 00:01:23,11.375s,PASSED
+delay(10),,,,14-02-2024 00:01:23,14-02-2024 00:01:33,10.006s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - LAPTOPS""), 0)",,,,14-02-2024 00:01:33,14-02-2024 00:01:35,1.671s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:01:35,14-02-2024 00:01:40,4.503s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - BY OPERATING SYSTEM""), 0)",,,,14-02-2024 00:01:40,14-02-2024 00:01:41,1.645s,PASSED
+a = filter,,,,14-02-2024 00:01:41,14-02-2024 00:01:41,0.000s,PASSED
+"if (a == ""Chrome"")",,,,14-02-2024 00:01:41,14-02-2024 00:01:41,0.000s,PASSED
+"else if (a == ""W10"")",,,,14-02-2024 00:01:41,14-02-2024 00:01:49,7.509s,PASSED
+,,,,,,,
+Test Cases/Filter,,,,14-02-2024 00:01:49,14-02-2024 00:02:23,33.907s,PASSED
+"startApplication(""C:\Users\masep\git\Report Final Mobile Asep Mahmudin\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:01:49,14-02-2024 00:02:00,11.340s,PASSED
+delay(10),,,,14-02-2024 00:02:00,14-02-2024 00:02:10,10.009s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - LAPTOPS""), 0)",,,,14-02-2024 00:02:10,14-02-2024 00:02:12,1.724s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:02:12,14-02-2024 00:02:14,2.229s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - BY OPERATING SYSTEM""), 0)",,,,14-02-2024 00:02:14,14-02-2024 00:02:16,1.485s,PASSED
+a = filter,,,,14-02-2024 00:02:16,14-02-2024 00:02:16,0.001s,PASSED
+"if (a == ""Chrome"")",,,,14-02-2024 00:02:16,14-02-2024 00:02:16,0.001s,PASSED
+"else if (a == ""W10"")",,,,14-02-2024 00:02:16,14-02-2024 00:02:16,0.000s,PASSED
+"else if (a == ""W7"")",,,,14-02-2024 00:02:16,14-02-2024 00:02:16,0.000s,PASSED
+"else if (a == ""W8"")",,,,14-02-2024 00:02:16,14-02-2024 00:02:23,7.086s,PASSED
+,,,,,,,
+Test Cases/Filter,,,,14-02-2024 00:02:23,14-02-2024 00:02:58,34.843s,PASSED
+"startApplication(""C:\Users\masep\git\Report Final Mobile Asep Mahmudin\Advantage+demo+3.2.apk"", true)",,,,14-02-2024 00:02:23,14-02-2024 00:02:34,11.151s,PASSED
+delay(10),,,,14-02-2024 00:02:34,14-02-2024 00:02:44,10.008s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - LAPTOPS""), 0)",,,,14-02-2024 00:02:44,14-02-2024 00:02:45,1.428s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.ImageView (2)""), 0)",,,,14-02-2024 00:02:45,14-02-2024 00:02:47,1.772s,PASSED
+"tap(findTestObject(""Object Repository/Filter/android.widget.TextView - BY OPERATING SYSTEM""), 0)",,,,14-02-2024 00:02:47,14-02-2024 00:02:50,2.616s,PASSED
+a = filter,,,,14-02-2024 00:02:50,14-02-2024 00:02:50,0.001s,PASSED
+"if (a == ""Chrome"")",,,,14-02-2024 00:02:50,14-02-2024 00:02:50,0.001s,PASSED
+"else if (a == ""W10"")",,,,14-02-2024 00:02:50,14-02-2024 00:02:50,0.001s,PASSED
+"else if (a == ""W7"")",,,,14-02-2024 00:02:50,14-02-2024 00:02:58,7.828s,PASSED
